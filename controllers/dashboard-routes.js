@@ -14,7 +14,7 @@ router.get("/", withAuth, (req, res) => {
       },
       attributes: [
         "id",
-        "post_content",
+        "post_url",
         "title",
         "created_at",
         [
@@ -53,7 +53,7 @@ router.get("/", withAuth, (req, res) => {
     Post.findByPk(req.params.id, {
       attributes: [
         "id",
-        "post_content",
+        "post_url",
         "title",
         "created_at",
         [
