@@ -14,7 +14,7 @@
   ## Licenses
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Instalation Instuctions: 
-  \
+  no instalation required. simply navigate to the deployed app (https://thawing-ocean-28464.herokuapp.com), and sign up to begin blogging
   ## Contributors: 
   none
   ## Questions:
